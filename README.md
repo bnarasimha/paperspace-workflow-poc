@@ -1,2 +1,2 @@
 # paperspace-workflow-poc
-Test Paperspace workflow
+Test Paperspace workflow functionality
